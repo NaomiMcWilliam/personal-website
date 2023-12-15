@@ -1,29 +1,29 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-first_name: Shiung Wu
+  - course: Master in Science, Physics with Theoretical Physics
+    institution: Imperial College London
+    year: 2020 - 2024
+  - course: Physics, Maths, Further Maths, Computer Science
+    institution: Watford Grammar School for Girls
+    year: 2013 - 2020
+first_name: Naomi
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+- Exoplanet Detection
+- Stellar Evolution
+- Neutron Stars
+- Machine Learning
+- Massive Gravity and General Relativity
+- Black Holes
+- Animal Welfare and Conservation
+- Numerical Modelling and Simulations
+- Online Gaming
+last_name: McWilliam
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Imperial College London
+  url: https://www.imperial.ac.uk/
+role: Master's Student
 skills:
 - items:
   - description: ""
@@ -67,27 +67,20 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/NaomiMcWilliam
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/naomi-mcwilliam/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/PhD_application_CV_Template.pdf
 status:
   icon: ☕️
 superuser: true
-title: 吳健雄
+title: Naomi McWilliam
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Naomi McWilliam is a Master's student in Theoretical Physics at Imperial College London. Her research interests include Astronomy, specifically in exoplanet detection and stellar evolution. She also enjoys delving into more Theoretical studies in Black Holes and Neutron Stars. She is currently working on improving radial velocity precision in exoplanet detection, to characterise the masses of Earth-like exoplanets. She is also working on deriving black hole solutions analytically under the theory of Massive Gravity.
 {style="text-align: justify;"}
