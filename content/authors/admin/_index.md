@@ -18,7 +18,6 @@ interests:
 - Black Holes
 - Animal Welfare and Conservation
 - Numerical Modelling and Simulations
-- Online Gaming
 last_name: McWilliam
 organizations:
 - name: Imperial College London
@@ -32,33 +31,33 @@ skills:
     name: Python
     percent: 80
   - description: ""
+    icon: sitemap
+    icon_pack: fas
+    name: Machine Learning
+    percent: 100
+  - description: ""
     icon: chart-line
     icon_pack: fas
     name: Data Science
-    percent: 100
-  - description: ""
-    icon: database
-    icon_pack: fas
-    name: SQL
     percent: 40
   name: Technical
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
   - description: ""
-    icon: person-hiking
-    icon_pack: fas
-    name: Hiking
-    percent: 60
-  - description: ""
     icon: cat
     icon_pack: fas
     name: Cats
     percent: 100
   - description: ""
-    icon: camera-retro
+    icon: cake-candles
     icon_pack: fas
-    name: Photography
+    name: Baking
+    percent: 60
+  - description: ""
+    icon: gamepad
+    icon_pack: fas
+    name: Gaming
     percent: 80
   name: Hobbies
 social:
@@ -73,6 +72,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/naomi-mcwilliam/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0004-4014-0937
 - icon: cv
   icon_pack: ai
   link: uploads/PhD_application_CV_Template.pdf
