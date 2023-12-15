@@ -77,7 +77,7 @@ social:
   link: https://orcid.org/0009-0004-4014-0937
 - icon: cv
   icon_pack: ai
-  link: uploads/PhD_application_CV_Template.pdf
+  link: uploads/PhD_CV.pdf
 status:
   icon: ☕️
 superuser: true
