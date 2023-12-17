@@ -52,146 +52,145 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
+    - company: Massachusetts Institute of Technology
+      company_logo: 
       company_url: ""
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2023-07-07"
       description: |2-
-          Responsibilities include:
+          
+          * Developed a Neural Network that takes several stellar activity              indicators as inputs (total solar irradiance, cross-correlation
+            functions, unsigned magnetic flux etc.) and predicts the radial             velocity (RV) of the Sun.
+          * Implemented the Neural Network using TensorFlow in Python.                  Performed pre-processing of input data. Used thorough
+            methods to optimise the Neural Network and evaluate its                     performance.
+          * Extended on work by de Beurs, Zoe. L. et al. (Aug. 2022).                   “Identifying Exoplanets with Deep Learning. IV. Re-moving
+            Stellar Activity Signals from Radial Velocity Measurements Using             Neural Networks”. In: 164.2, 49, p. 49.
+          * Reduced RV scatter from 154.7 cm/s to 92.1 cm/s. This is a                  step to reducing RV precision down to 10 cm s−1 to detect                   exoplanets.
+          * Submitted to Monthly Notices of the Royal Astronomical Society.
+          * Presented two talks on my methods, the impacts of my findings,              and the #goals we are working towards for extreme precision                 radial velocity measurements.
 
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
+      location: Massachusetts, US
+      title: Undergraduate Researcher
+      
+    - company: Imperial College London
+      company_logo: 
       company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      date_end: ""
+      date_start: "2023-07-07"
+      description:  |2-
+          
+          * Working with Professor Claudia de Rham on ’Black Holes in                   Massive Gravity’. Massive Gravity is a variation on General
+            Relativity, with the graviton being massive.
+          * Produced a literature review on General Relativity after                    independently studying the contents of Carroll, Sean M. (Dec.
+            1997). Lecture Notes on General Relativity.
+          * Analytically derived and worked through equations discussed in              de Rham, Claudia (Dec. 2014). Massive Gravity. In: 
+            Living Reviews in Relativity
+          * Working towards Black Hole solutions in Massive Gravity through             taking approximations and deriving the physical
+            constraints. Will extend on the analyis performed in Rosen,                 Rachel A. (Oct. 2017). “Non-singular black holes in
+            massive gravity: time-dependent solutions”. In: Journal of High             Energy Physics 2017.10, 206, p. 206
+          * Studied theories of pulsars in Massive Gravity.
+      location: London, UK
+      title: Master's Thesis
     title: Experience
   design:
     columns: "2"
-- block: accomplishments
-  content:
-    date_format: Jan 2006
-    items:
-    - certificate_url: https://www.coursera.org
-      date_end: ""
-      date_start: "2021-01-25"
-      description: ""
-      icon: coursera
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
-      url: ""
-    - certificate_url: https://www.edx.org
-      date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      icon: edx
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
-      description: ""
-      icon: datacamp
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
-      url: ""
-    subtitle: null
-    title: Accomplish&shy;ments
-  design:
-    columns: "2"
-- block: collection
-  content:
-    count: 5
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      folders:
-      - post
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    subtitle: ""
-    text: ""
-    title: Recent Posts
-  design:
-    columns: "2"
-    view: compact
-  id: posts
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-    title: Projects
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
-  design:
-    columns: "1"
-- block: collection
-  content:
-    filters:
-      featured_only: true
-      folders:
-      - publication
-    title: Featured Publications
-  design:
-    columns: "2"
-    view: card
-  id: featured
-- block: collection
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
-    text: |-
-      {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
-      {{% /callout %}}
-    title: Recent Publications
-  design:
-    columns: "2"
-    view: citation
-  id: publications
-- block: collection
-  content:
-    filters:
-      folders:
-      - event
-    title: Recent & Upcoming Talks
-  design:
-    columns: "2"
-    view: compact
-  id: talks
-  design:
-    columns: "2"
+#- block: accomplishments
+#  content:
+#    date_format: Jan 2006
+#    items:
+#    - certificate_url: https://www.coursera.org
+#      date_end: ""
+#      date_start: "2021-01-25"
+#      description: ""
+#      icon: coursera
+#      organization: Coursera
+#      organization_url: https://www.coursera.org
+#      title: Neural Networks and Deep Learning
+#      url: ""
+#    title: Accomplish&shy;ments
+#  design:
+#    columns: "2"
+#- block: collection
+#  content:
+#    count: 5
+#    filters:
+#      author: ""
+#      category: ""
+#      exclude_featured: false
+#      exclude_future: false
+#      exclude_past: false
+#      folders:
+#      - post
+#      publication_type: ""
+#      tag: ""
+#    offset: 0
+#    order: desc
+#    subtitle: ""
+#    text: ""
+#    title: Recent Posts
+#  design:
+#    columns: "2"
+#    view: compact
+#  id: posts
+#- block: portfolio
+#  content:
+#    buttons:
+#    - name: All
+#      tag: '*'
+#    - name: Deep Learning
+#      tag: Deep Learning
+#    - name: Other
+#      tag: Demo
+#    default_button_index: 0
+#    filters:
+#      folders:
+#      - project
+#    title: Projects
+#  design:
+#    columns: "1"
+#    flip_alt_rows: false
+#    view: showcase
+#  id: projects
+#  design:
+#    columns: "1"
+#- block: collection
+#  content:
+#    filters:
+#      featured_only: true
+#      folders:
+#      - publication
+#    title: Featured Publications
+#  design:
+#    columns: "2"
+#    view: card
+#  id: featured
+#- block: collection
+#  content:
+#    filters:
+#      exclude_featured: true
+#      folders:
+#      - publication
+#   text: |-
+#      {{% callout note %}}
+#      Quickly discover relevant content by [filtering #publications](./publication/).
+#      {{% /callout %}}
+#    title: Recent Publications
+#  design:
+#    columns: "2"
+#    view: citation
+#  id: publications
+#- block: collection
+#  content:
+#    filters:
+#      folders:
+#      - event
+#    title: Recent & Upcoming Talks
+#  design:
+#    columns: "2"
+#    view: compact
+#  id: talks
+#  design:
+#    columns: "2"
 - block: contact
   content:
     autolink: true
