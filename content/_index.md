@@ -191,37 +191,37 @@ sections:
 #  id: talks
 #  design:
 #    columns: "2"
-- block: contact
-  content:
-    autolink: true
-    contact_links:
-    - icon: twitter
-      icon_pack: fab
-      link: https://twitter.com/Twitter
-      name: DM Me
-    - icon: skype
-      icon_pack: fab
-      link: skype:echo123?call
-      name: Skype Me
-    - icon: video
-      icon_pack: fas
-      link: https://zoom.com
-      name: Zoom Me
-    email: test@example.org
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
-    phone: 888 888 88 88
-    subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
-    title: Contact
-  design:
-    columns: "2"
-  id: contact
-title: ""
+#- block: contact
+#  content:
+#    autolink: true
+#    contact_links:
+#    - icon: twitter
+#      icon_pack: fab
+#      link: https://twitter.com/Twitter
+#      name: DM Me
+#    - icon: skype
+#      icon_pack: fab
+#      link: skype:echo123?call
+#      name: Skype Me
+#    - icon: video
+#      icon_pack: fas
+#      link: https://zoom.com
+#      name: Zoom Me
+#    email: test@example.org
+#    form:
+#      formspree:
+#        id: null
+#      netlify:
+#        captcha: false
+#      provider: netlify
+#    phone: 888 888 88 88
+#    subtitle: null
+#    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi #diam, venenatis
+#      ut magna et, vehicula efficitur enim.
+#    title: Contact
+#  design:
+#    columns: "2"
+#  id: contact
+#title: ""
 type: landing
 ---
