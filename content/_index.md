@@ -277,10 +277,10 @@ sections:
 #  id: talks
 #  design:
 #    columns: "2"
-#- block: contact
-#  content:
-#    autolink: true
-#    contact_links:
+- block: contact
+  content:
+    autolink: true
+    contact_links:
 #    - icon: twitter
 #      icon_pack: fab
 #      link: https://twitter.com/Twitter
@@ -293,21 +293,20 @@ sections:
 #      icon_pack: fas
 #      link: https://zoom.com
 #      name: Zoom Me
-#    email: test@example.org
-#    form:
-#      formspree:
-#        id: null
-#      netlify:
-#        captcha: false
-#      provider: netlify
+    email: naomi.mcwilliam20@imperial.ac.uk
+    form:
+      formspree:
+        id: null
+      netlify:
+        captcha: false
+      provider: netlify
 #    phone: 888 888 88 88
-#    subtitle: null
-#    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi #diam, venenatis
-#      ut magna et, vehicula efficitur enim.
-#    title: Contact
-#  design:
-#    columns: "2"
-#  id: contact
-#title: ""
+    subtitle: null
+    text: ""
+    title: Contact
+  design:
+    columns: "2"
+  id: contact
+title: ""
 type: landing
 ---
