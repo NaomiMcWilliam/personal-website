@@ -74,6 +74,22 @@ sections:
     title: Accomplish&shy;ments
   design:
     columns: "2"
+    
+- block: collection
+  content:
+    filters:
+      exclude_featured: true
+      folders:
+      - publication
+#    text: |-
+#      {{% callout note %}}
+#      Quickly discover relevant content by [filtering publications](./publication/).
+#      {{% /callout %}}
+    title: Publications
+  design:
+    columns: "2"
+    view: citation
+  id: publications
 - block: experience
   content:
     date_format: Jan 2006
@@ -250,21 +266,6 @@ sections:
 #    columns: "2"
 #    view: card
 #  id: featured
-- block: collection
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
-#    text: |-
-#      {{% callout note %}}
-#      Quickly discover relevant content by [filtering publications](./publication/).
-#      {{% /callout %}}
-    title: Publications
-  design:
-    columns: "2"
-    view: citation
-  id: publications
 #- block: collection
 #  content:
 #    filters:
