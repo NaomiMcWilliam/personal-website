@@ -44,35 +44,35 @@ authors:
 - Mercedes López-Morales 
 - Dimitar Sasselov
 - Alessandro Sozzetti
-# date: "2015-09-01T00:00:00Z"
+# date: "2024-03-01T00:00:00Z"
 doi: ""
 featured: false
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
 projects: []
 publication: 'Submitted to MNRAS'
 publication_short: ""
 publication_types:
 - article-journal
 publishDate: "2024-03-01T00:00:00Z"
-#slides: example
-#summary:
+slides: example
+summary: ""
 tags:
 - "techniques: radial velocities"
 - "methods: data analysis"
 - "Sun: activity"
 - "stars: activity"
 title: Identifying Exoplanets with Deep Learning VI. Enhancing neural network mitigation of stellar activity RV signals with additional metrics
-#url_code: https://github.com/HugoBlox/hugo-blox-builder
-#url_dataset: ""
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
-#url_poster: ""
-#url_project: ""
-#url_slides: ""
-#url_source: ""
-#url_video: ""
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 ---
 
 {{% callout note %}}

@@ -77,7 +77,7 @@ sections:
 - block: collection
   content:
     filters:
-      exclude_featured: true
+#      exclude_featured: true
       folders:
       - publication
 #    text: |-
