@@ -56,7 +56,7 @@ publication: 'Submitted to MNRAS'
 publication_short: ""
 publication_types:
 - article-journal
-publishDate: "2024-03-01T00:00:00Z"
+publishDate: "2023-12-12T00:00:00Z"
 #slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
