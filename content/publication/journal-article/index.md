@@ -57,7 +57,7 @@ publication_short: ""
 publication_types:
 - article-journal
 publishDate: "2023-12-12T00:00:00Z"
-slides: example
+#slides: example
 summary: ""
 tags:
 - "techniques: radial velocities"
