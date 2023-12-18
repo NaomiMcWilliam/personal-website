@@ -44,7 +44,7 @@ authors:
 - Mercedes López-Morales 
 - Dimitar Sasselov
 - Alessandro Sozzetti
-date: "2015-09-01T00:00:00Z"
+#date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -56,7 +56,7 @@ publication: 'Submitted to MNRAS'
 publication_short: ""
 publication_types:
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-03-01T00:00:00Z"
 #slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
