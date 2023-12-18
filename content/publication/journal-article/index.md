@@ -9,9 +9,35 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 author_notes:
 - First-author
 - Co-author
+- Co-author
+- Co-author
+- Co-author
+- Co-author
+- Co-author
+- Co-author
+- Co-author
+- Co-author
+- Co-author
+- Co-author
+- Co-author
+- Co-author
+- Co-author
 authors:
 - admin
 - Zoë L. de Beurs
+- Andrew Vanderburg
+- Javier Viaña
+- Annelies Mortier
+- Lars A. Buchhave
+- Andrew Cameron
+- Rosario Cosentino
+- Xavier Dumusque
+- Adriano Ghedina
+- Ben Lakeland 
+- Marcello Lodi
+- Mercedes López-Morales 
+- Dimitar Sasselov
+- Alessandro Sozzetti
 date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
