@@ -13,15 +13,15 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 25
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+#  - name: Projects
+#    url: '#projects'
+#    weight: 30
+#  - name: Talks
+#    url: '#talks'
+#    weight: 40
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 15
   - name: Contact
     url: '#contact'
     weight: 60

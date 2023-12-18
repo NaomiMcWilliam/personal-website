@@ -29,17 +29,17 @@ skills:
     icon: python
     icon_pack: fab
     name: Python
-    percent: 80
+    percent: 100
   - description: ""
     icon: sitemap
     icon_pack: fas
     name: Machine Learning
-    percent: 100
+    percent: 70
   - description: ""
     icon: chart-line
     icon_pack: fas
     name: Data Science
-    percent: 40
+    percent: 90
   name: Technical
 - color: '#eeac02'
   color_border: '#f0bf23'
@@ -53,12 +53,12 @@ skills:
     icon: cake-candles
     icon_pack: fas
     name: Baking
-    percent: 60
+    percent: 70
   - description: ""
     icon: gamepad
     icon_pack: fas
     name: Gaming
-    percent: 80
+    percent: 60
   name: Hobbies
 social:
 - icon: envelope

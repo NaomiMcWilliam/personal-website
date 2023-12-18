@@ -71,9 +71,24 @@ sections:
       organization_url: https://www.coursera.org
       title: The Data Scientist’s Toolbox
       url: "https://www.coursera.org/learn/data-scientists-tools"
-    title: Accomplish&shy;ments
+    title: Certifications
   design:
     columns: "2"
+- block: collection
+  content:
+    filters:
+      exclude_featured: true
+      folders:
+      - publication
+#    text: |-
+#      {{% callout note %}}
+#      Quickly discover relevant content by [filtering publications](./publication/).
+#      {{% /callout %}}
+    title: Publications
+  design:
+    columns: "2"
+    view: citation
+  id: publications
 - block: experience
   content:
     date_format: Jan 2006
@@ -142,7 +157,7 @@ sections:
     title: Experience
   id: experience
   design:
-    columns: "2"
+    columns: "1"
 
 - block: experience
   content:
@@ -250,21 +265,6 @@ sections:
 #    columns: "2"
 #    view: card
 #  id: featured
-#- block: collection
-#  content:
-#    filters:
-#      exclude_featured: true
-#      folders:
-#      - publication
-#   text: |-
-#      {{% callout note %}}
-#      Quickly discover relevant content by [filtering #publications](./publication/).
-#      {{% /callout %}}
-#    title: Recent Publications
-#  design:
-#    columns: "2"
-#    view: citation
-#  id: publications
 #- block: collection
 #  content:
 #    filters:
