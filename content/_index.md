@@ -48,6 +48,32 @@ sections:
     username: admin
   design:
     columns: "1"
+- block: accomplishments
+  content:
+    date_format: Jan 2006
+    items:
+    - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/PPFV5HMYQL3J
+      date_end: ""
+      date_start: "2022-09-29"
+      description: ""
+      icon: coursera
+      organization: Coursera
+      organization_url: https://www.coursera.org
+      title: Machine Learning Specialization
+      url: "https://www.coursera.org/specializations/machine-learning-introduction"
+
+    - certificate_url: https://www.coursera.org/account/accomplishments/certificate/3LU9VGFEPLS3
+      date_end: ""
+      date_start: "2021-07-08"
+      description: ""
+      icon: coursera
+      organization: Coursera
+      organization_url: https://www.coursera.org
+      title: The Data Scientist’s Toolbox
+      url: "https://www.coursera.org/learn/data-scientists-tools"
+    title: Accomplish&shy;ments
+  design:
+    columns: "2"
 - block: experience
   content:
     date_format: Jan 2006
@@ -89,27 +115,87 @@ sections:
             constraints. Will extend on the analyis performed in Rosen,                 Rachel A. (Oct. 2017). “Non-singular black holes in
             massive gravity: time-dependent solutions”. In: Journal of High             Energy Physics 2017.10, 206, p. 206
           * Studied theories of pulsars in Massive Gravity.
+          
       location: London, UK
       title: Master's Thesis
+      
+    - company: Zoological Society of London
+      company_logo: 
+      company_url: ""
+      date_end: "2021-09-09"
+      date_start: "2021-06-06"
+      description:  |2-
+          
+          * Developed code to assist with the analysis of camera trap data.             This data can be used to help with conservation efforts
+            and biodiversity research. Supervised by Dr Marcus Rowcliffe
+          * Created a GUI to increase the usability of programs dedicated to             analysing camera trap data using deep learning
+            techniques. I worked in Python and Windows command prompt. This             is available through my GitHub.
+          * Wrote code using OpenCV in python for image analysis studies,               specifically using background subtraction methods to
+            help identify animals in camera trap images.
+          * Created an interactive map using the Python package ’Leaflet’,              that explores the different species present in the Gobi
+            desert.
+          * Establishing the efficiency and accuracy of current camera trap             analysis programs by searching through metadata and
+            creating a confusion matrix in R.
+          * Conducted image and data analysis on camera trap images in R.
+      location: London, UK
+      title: Summer Research Intern
     title: Experience
+  id: experience
   design:
     columns: "2"
-#- block: accomplishments
-#  content:
-#    date_format: Jan 2006
-#    items:
-#    - certificate_url: https://www.coursera.org
-#      date_end: ""
-#      date_start: "2021-01-25"
-#      description: ""
-#      icon: coursera
-#      organization: Coursera
-#      organization_url: https://www.coursera.org
-#      title: Neural Networks and Deep Learning
-#      url: ""
-#    title: Accomplish&shy;ments
-#  design:
-#    columns: "2"
+
+- block: experience
+  content:
+    date_format: Jan 2006
+    items:
+    - company: Imperial College London
+      company_logo: 
+      company_url: ""
+      date_end: "2023-10-10"
+      date_start: "2023-11-11"
+      description:
+      location: London, UK
+      title: Computing demonstrator (Python)
+      
+    - company: Imperial College London
+      company_logo: 
+      company_url: ""
+      date_end: "2022-09-09"
+      date_start: "2022-07-07"
+      location: London, UK
+      title: Mechanics and Relativity Module Shaper 
+      
+    - company: Watford Grammar School for Girls
+      company_logo: 
+      company_url: ""
+      date_end: "2021-01-01"
+      date_start: "2022-09-09"
+      location: Watford, UK
+      title: Private Tutor
+    
+    - company: Watford Grammar School for Girls
+      company_logo: 
+      company_url: ""
+      date_end: "2020-03-03"
+      date_start: "2019-09-09"
+      location: Watford, UK
+      title: Astronomy Teacher
+      
+    - company: Kumon
+      company_logo: 
+      company_url: ""
+      date_end: "2019-09-09"
+      date_start: "2018-09-09"
+      location: Watford, UK
+      title: Tutor
+    
+    
+    title: Teaching
+  id: teaching
+  design:
+    columns: "2"
+  
+
 #- block: collection
 #  content:
 #    count: 5
