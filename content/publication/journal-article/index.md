@@ -46,7 +46,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: 'Submitted to MNRAS'
 publication_short: ""
 publication_types:
 - article-journal
