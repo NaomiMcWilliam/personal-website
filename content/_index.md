@@ -71,24 +71,9 @@ sections:
       organization_url: https://www.coursera.org
       title: The Data Scientist’s Toolbox
       url: "https://www.coursera.org/learn/data-scientists-tools"
-    title: Certifications
+    title: Accomplish&shy;ments
   design:
     columns: "2"
-- block: collection
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
-    text: |-
-      {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
-      {{% /callout %}}
-    title: Publications
-  design:
-    columns: "2"
-    view: citation
-  id: publications
 - block: experience
   content:
     date_format: Jan 2006
@@ -265,6 +250,21 @@ sections:
 #    columns: "2"
 #    view: card
 #  id: featured
+- block: collection
+  content:
+    filters:
+      exclude_featured: true
+      folders:
+      - publication
+    text: |-
+      {{% callout note %}}
+      Quickly discover relevant content by [filtering publications](./publication/).
+      {{% /callout %}}
+    title: Recent Publications
+  design:
+    columns: "2"
+    view: citation
+  id: publications
 #- block: collection
 #  content:
 #    filters:
@@ -277,10 +277,10 @@ sections:
 #  id: talks
 #  design:
 #    columns: "2"
-- block: contact
-  content:
-    autolink: true
-    contact_links:
+#- block: contact
+#  content:
+#    autolink: true
+#    contact_links:
 #    - icon: twitter
 #      icon_pack: fab
 #      link: https://twitter.com/Twitter
@@ -293,20 +293,21 @@ sections:
 #      icon_pack: fas
 #      link: https://zoom.com
 #      name: Zoom Me
-    email: naomi.mcwilliam20@imperial.ac.uk
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
+#    email: test@example.org
+#    form:
+#      formspree:
+#        id: null
+#      netlify:
+#        captcha: false
+#      provider: netlify
 #    phone: 888 888 88 88
-    subtitle: null
-    text: ""
-    title: Contact
-  design:
-    columns: "2"
-  id: contact
-title: ""
+#    subtitle: null
+#    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi #diam, venenatis
+#      ut magna et, vehicula efficitur enim.
+#    title: Contact
+#  design:
+#    columns: "2"
+#  id: contact
+#title: ""
 type: landing
 ---
