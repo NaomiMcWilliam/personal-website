@@ -56,7 +56,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
+title: Identifying Exoplanets with Deep Learning VI. Enhancing neural network mitigation of stellar activity RV signals with additional metrics
 url_code: https://github.com/HugoBlox/hugo-blox-builder
 url_dataset: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
