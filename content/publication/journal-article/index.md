@@ -44,7 +44,7 @@ authors:
 - Mercedes López-Morales 
 - Dimitar Sasselov
 - Alessandro Sozzetti
-#date: "2015-09-01T00:00:00Z"
+#date: "2017-03-01T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -57,15 +57,17 @@ publication_short: ""
 publication_types:
 - article-journal
 publishDate: "2023-12-12T00:00:00Z"
-#slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+slides: example
+summary: ""
 tags:
-- Source Themes
+- "techniques: radial velocities"
+- "methods: data analysis"
+- "Sun: activity"
+- "stars: activity"
 title: Identifying Exoplanets with Deep Learning VI. Enhancing neural network mitigation of stellar activity RV signals with additional metrics
-#url_code: https://github.com/HugoBlox/hugo-blox-builder
+url_code: ""
 url_dataset: ""
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
@@ -74,11 +76,5 @@ url_video: ""
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Paper has been submitted to MNRAS on December 2023 and is currently under peer review
 {{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
