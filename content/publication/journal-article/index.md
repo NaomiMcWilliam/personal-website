@@ -51,13 +51,13 @@ publication_short: ""
 publication_types:
 - article-journal
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+#slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
 title: Identifying Exoplanets with Deep Learning VI. Enhancing neural network mitigation of stellar activity RV signals with additional metrics
-url_code: https://github.com/HugoBlox/hugo-blox-builder
+#url_code: https://github.com/HugoBlox/hugo-blox-builder
 url_dataset: ""
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_poster: ""
