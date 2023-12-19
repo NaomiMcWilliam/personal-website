@@ -67,7 +67,7 @@ tags:
 title: Identifying Exoplanets with Deep Learning VI. Enhancing neural network mitigation of stellar activity RV signals with additional metrics
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://drive.google.com/file/d/18qL7ovq-sgRNA6lCVabl_CGMWPhlY449/view?usp=sharing"
 url_poster: ""
 url_project: ""
 url_slides: ""

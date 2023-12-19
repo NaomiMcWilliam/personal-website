@@ -36,6 +36,7 @@ sections:
       gradient_end: '#1976d2'
       gradient_start: '#004ba0'
       text_color_light: true
+      
 - block: about.biography
   content:
     title: Biography
@@ -44,36 +45,11 @@ sections:
 - block: skills
   content:
     text: ""
-    title: Skills
+    title: Skills & Interests
     username: admin
   design:
     columns: "1"
-- block: accomplishments
-  content:
-    date_format: Jan 2006
-    items:
-    - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/PPFV5HMYQL3J
-      date_end: ""
-      date_start: "2022-09-29"
-      description: ""
-      icon: coursera
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: Machine Learning Specialization
-      url: "https://www.coursera.org/specializations/machine-learning-introduction"
 
-    - certificate_url: https://www.coursera.org/account/accomplishments/certificate/3LU9VGFEPLS3
-      date_end: ""
-      date_start: "2021-07-08"
-      description: ""
-      icon: coursera
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: The Data Scientist’s Toolbox
-      url: "https://www.coursera.org/learn/data-scientists-tools"
-    title: Certifications
-  design:
-    columns: "2"
 - block: collection
   content:
     filters:
@@ -89,6 +65,17 @@ sections:
     columns: "2"
     view: citation
   id: publications
+
+- block: collection
+  id: research
+  content:
+    title: Research
+    filters:
+      folders:
+        - research
+  design:
+    view: showcase
+
 - block: experience
   content:
     date_format: Jan 2006
@@ -204,13 +191,38 @@ sections:
       location: Watford, UK
       title: Tutor
     
-    
     title: Teaching
   id: teaching
   design:
     columns: "2"
-  
+    
+- block: accomplishments
+  content:
+    date_format: Jan 2006
+    items:
+    - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/PPFV5HMYQL3J
+      date_end: ""
+      date_start: "2022-09-29"
+      description: ""
+      icon: coursera
+      organization: Coursera
+      organization_url: https://www.coursera.org
+      title: Machine Learning Specialization
+      url: "https://www.coursera.org/specializations/machine-learning-introduction"
 
+    - certificate_url: https://www.coursera.org/account/accomplishments/certificate/3LU9VGFEPLS3
+      date_end: ""
+      date_start: "2021-07-08"
+      description: ""
+      icon: coursera
+      organization: Coursera
+      organization_url: https://www.coursera.org
+      title: The Data Scientist’s Toolbox
+      url: "https://www.coursera.org/learn/data-scientists-tools"
+    title: Certifications
+  design:
+    columns: "2"
+  
 #- block: collection
 #  content:
 #    count: 5
@@ -277,6 +289,7 @@ sections:
 #  id: talks
 #  design:
 #    columns: "2"
+
 - block: contact
   content:
     autolink: true
@@ -294,12 +307,12 @@ sections:
 #      link: https://zoom.com
 #      name: Zoom Me
     email: naomi.mcwilliam20@imperial.ac.uk
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
+#    form:
+#      formspree:
+#        id: null
+#      netlify:
+#        captcha: false
+#      provider: netlify
 #    phone: 888 888 88 88
     subtitle: null
     text: ""
