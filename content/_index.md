@@ -45,7 +45,7 @@ sections:
 - block: skills
   content:
     text: ""
-    title: Skills & Interests
+    title: Skills
     username: admin
   design:
     columns: "1"
